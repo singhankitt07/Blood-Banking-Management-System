@@ -5,7 +5,7 @@ blood searches for the persons having the same blood group and within the city. 
 found a donor in his city then he gets the total details of the donor, if he doesn’t find
 any donor then he is given the contact numbers and addresses of the Life Saving
 Contact Persons for major cities. In this project we use JAVA and MySQL and it
-contains 3 modules i.e. Admin, Donor, User (Patient).</p>
+contains 3 modules i.e. Admin, Donor, User (Patients).</p>
 
 <h2>Screenshot's </h2>
 
